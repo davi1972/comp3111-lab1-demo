@@ -7,7 +7,7 @@ public class Library {
 		if (lib.someLibraryMethod())
 			System.out.println("KIM  When there is a fire, commit and push.");
 	}
-	// This is a comment
+	// This is a comment yes yes
     public boolean someLibraryMethod() {
         return true;
     }
